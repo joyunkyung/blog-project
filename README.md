@@ -67,10 +67,19 @@
 ## 구현
 ### 1. 실행 화면
 <details>
-<summary>회원가입, 로그인, 회원수정</summary>
+<summary>회원가입, 로그인</summary>
 <div markdown="1">
+<br>
+<p>1. 유효성 및 아이디 중복 검사</p>
+<img src="https://user-images.githubusercontent.com/104826026/205252112-56445b62-ebd2-4672-8aa8-c65ce6a7cde0.PNG"></img>
 
-사진
+<br>
+<p>2. 회원가입 완료</p>
+<img src="https://user-images.githubusercontent.com/104826026/205250306-8f040f00-679b-4c67-9a03-e835ada5a0fd.PNG"></img>
+
+<br>
+<p>3. 로그인 실패</p>
+<img src="https://user-images.githubusercontent.com/104826026/205253265-ffa094b1-d262-4b14-b126-8a9706d2cbf4.gif"></img>
 
 </div>
 </details>
@@ -79,8 +88,21 @@
 <summary>게시판, 댓글</summary>
 <div markdown="1">
 
-사진
+<br>
+<p>1. 게시글 작성</p>
+<img src="https://user-images.githubusercontent.com/104826026/205254244-b16389ff-929f-4202-9593-390b24db6194.PNG"></img>
 
+<br>
+<p>2. 게시글 목록, 페이징</p>
+<img src="https://user-images.githubusercontent.com/104826026/205254352-fd602c1b-c1fb-43ec-8ed7-1de472f18084.PNG"></img>
+
+<br>
+<p>3. 게시글 보기</p>
+<img src="https://user-images.githubusercontent.com/104826026/205254408-b829a7db-35ea-437f-bf5c-5efa44e7e223.PNG"></img>
+
+<br>
+<p>4. 댓글</p>
+<img src="https://user-images.githubusercontent.com/104826026/205254456-1a9109b6-9fb0-44f0-a3f4-7aacfe188098.PNG"></img>
 </div>
 </details>
 
