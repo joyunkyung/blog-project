@@ -1,6 +1,8 @@
 # Blog Project 
 > 블로그 프로젝트
 
+![메인](https://user-images.githubusercontent.com/104826026/205257592-bf701844-63b6-447d-84cc-9a0c2296418f.png)
+
 
 ## 목차
 * 개요
@@ -17,8 +19,6 @@
 * DB 설계
 
 * 구현
-  * 실행 화면
-  * 호스팅
 
 * 개발 내용
 
@@ -108,6 +108,7 @@
 
 ---
 ## 개발 내용
+[0. 전체](https://dot-agate-dab.notion.site/9765f75bf2074a6abbff55f0bdb9e168) <br>
 [1. 프로젝트 생성](https://dot-agate-dab.notion.site/1-9c66838505214e1ca177c6c257e6a00a) <br>
 [2. 테이블](https://dot-agate-dab.notion.site/2-Entity-88c78b2dfeac4a5aa41b9575eff28f63) <br>
 [3. 회원가입](https://dot-agate-dab.notion.site/3-a906704bedb74ced92fc95a7c48d06a7) <br>
@@ -123,5 +124,11 @@
 [13. 글 삭제하기](https://dot-agate-dab.notion.site/13-3f6955ac80474a13848d24a4e79addf0) <br>
 [14. 댓글 달기](https://dot-agate-dab.notion.site/14-75d4197ac9714d83a4d843e33f32bcb6) <br>
 [15. 댓글 삭제](https://dot-agate-dab.notion.site/15-3d689e8fdd6941d6973f28f981ca568e) <br>
+
+---
+## 프로젝트 보완 및 추가 예정 기능
+회원 정보 수정시 비밀번호 수정하거나 원래 비밀번호를 입력하지 않고 이메일이나 이름만 수정할 시 비밀번호를 수정하지 않았음에도 로그인이 안되는 에러가 발생하여 회정 정보를 수정할 때는 무조건 비밀번호를 변경하거나 기존 비밀번호를 입력해야 로그인이 가능하여 해당 부분을 수정할 예정
+
+
 
 
