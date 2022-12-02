@@ -62,7 +62,6 @@
 ## DB 설계
 ![erd](https://user-images.githubusercontent.com/104826026/205219395-f4adda79-6a83-43af-b05f-743a9e6a2657.PNG)
 
-++명세표 추가해야함
 ---
 ## 구현
 ### 1. 실행 화면
