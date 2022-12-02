@@ -1,0 +1,41 @@
+server:
+  port: 8001
+  servlet:
+    context-path: /
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+      
+ #spring 파일경로 (Controller)    
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+      
+      
+#스프링과 db연결
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/post?serverTimezone=Asia/Seoul
+    username: post
+    password:  1234
+    
+    
+  jpa:
+    open-in-view: true
+    hibernate:
+      ddl-auto: update
+      #ddl-auto: create: 재실행 할때마다 테이블 drop됨
+      
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+      use-new-id-generator-mappings: false
+   # show-sql: true
+    properties:
+      hibernate.format_sql: true
+
+  jackson:
+    serialization:
+      fail-on-empty-beans: false
