@@ -33,6 +33,7 @@
 * 백엔드
   * java 8.0
   * SpringBoot
+  * STS4
   * JPA
 
 * 프론트엔드
