@@ -140,7 +140,7 @@
  <p>카카오/네이버 로그인</p><br>
  <p>관리자 페이지</p><br>
  <p>검색 기능</p><br>
- <p>AWS 엘라스틱 빈스톡을 이용한 호스팅(진행중)</p><br>
+ <p>[AWS 엘라스틱 빈스톡을 이용한 호스팅(진행중)] (https://dot-agate-dab.notion.site/AWS-2216e017445f4b7abb0764c7157194a6)</p><br>
 </div>
 </details>
 
